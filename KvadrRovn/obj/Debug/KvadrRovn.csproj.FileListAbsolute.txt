@@ -1,0 +1,11 @@
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\bin\Debug\KvadrRovn.exe.config
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\bin\Debug\KvadrRovn.exe
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\bin\Debug\KvadrRovn.pdb
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\obj\Debug\KvadrRovn.csproj.AssemblyReference.cache
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\obj\Debug\KvadrRovn.csproj.SuggestedBindingRedirects.cache
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\obj\Debug\KvadrRovn.Form1.resources
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\obj\Debug\KvadrRovn.Properties.Resources.resources
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\obj\Debug\KvadrRovn.csproj.GenerateResource.cache
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\obj\Debug\KvadrRovn.csproj.CoreCompileInputs.cache
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\obj\Debug\KvadrRovn.exe
+C:\Users\honzi\Desktop\InfoSys\KvadrRovn\KvadrRovn\obj\Debug\KvadrRovn.pdb
